@@ -1,0 +1,1 @@
+algo, objetc, algo inversé
